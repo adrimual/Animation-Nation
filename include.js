@@ -4263,6 +4263,13 @@ let cards = [
     imageLink: "./Art/Lidor's Animation/animation.gif",
     author: 'LidorAsher',
     githubLink: 'https://github.com/lidorasher11'
+  },
+    {
+    artName: "Neon-Glowing-Text",
+    pageLink: './Art/neon-glowing-text/index.html',
+    imageLink: './Art/neon-glowing-text/glowing-text-GIF.gif',
+    author: 'Adri',
+    githubLink: 'https://github.com/adrimual'
   }
 ];
 
